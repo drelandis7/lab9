@@ -1,4 +1,4 @@
-![mountains](C:/Users/Данил/Desktop/abc.png "Готово")
+![Описание картинки](https://avatars.mds.yandex.net/get-dialogs/1017510/c69d856d7552f9752e79/orig)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
